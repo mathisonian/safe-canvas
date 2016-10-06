@@ -1,0 +1,15 @@
+{
+  "name": "safe-canvas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "node.js",
+  "browser": "browser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "optionalDependencies": {
+    "canvas": "^1.5.0"
+  }
+}
