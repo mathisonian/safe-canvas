@@ -1,14 +1,14 @@
 {
   "name": "safe-canvas",
   "version": "1.0.1",
-  "description": "",
+  "description": "A unified interface for interacting with canvas in the browser or in node.js",
   "main": "node.js",
   "browser": "browser.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Matthew Conlen <mc@mathisonian.com>",
+  "license": "MIT",
   "optionalDependencies": {
     "canvas": "^1.5.0"
   }
