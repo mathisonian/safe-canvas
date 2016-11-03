@@ -1,6 +1,6 @@
 {
   "name": "safe-canvas",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "A unified interface for interacting with canvas in the browser or in node.js",
   "main": "node.js",
   "browser": "browser.js",
